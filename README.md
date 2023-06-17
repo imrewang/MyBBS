@@ -4,6 +4,8 @@
 
 My BBS 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 论坛系统，页面美观、功能齐全、部署简单及完善的代码，一定会给学习者和使用者带来极大的帮助。
 
+JDK17
+
 spring Boot 版本为 2.4.0
 
 - **一个以 Spring Boot 技术栈实现的 BBS 论坛实战项目；**
